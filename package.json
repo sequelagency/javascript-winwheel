@@ -1,6 +1,6 @@
 {
   "name": "javascript-winwheel",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "description": "Create spinning prize wheels on HTML canvas with Winwheel.js",
   "main": "Winwheel.js",
   "directories": {
